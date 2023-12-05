@@ -1,0 +1,696 @@
+{
+  "sacsamain": [
+    {
+      "id": 1,
+      "reference": "sac123",
+      "designation": "Sac à main en cuir noir",
+      "marque": "FashionCo",
+      "prixAchat": "70",
+      "prixVente": 89.99,
+      "qtestock": 50,
+      "imageartpetitf": "sacimg/3.jpg"
+    },
+    {
+      "id": 2,
+      "reference": "sac456",
+      "designation": "Sac à main en toile rayée",
+      "marque": "TrendyStyle",
+      "prixAchat": 35,
+      "prixVente": 59.99,
+      "qtestock": 30,
+      "imageartpetitf": "sacimg/y.jpg"
+    },
+    {
+      "id": 3,
+      "reference": "sac789",
+      "designation": "Sac à main en cuir marron",
+      "marque": "ChicBags",
+      "prixAchat": 60,
+      "prixVente": 99.99,
+      "qtestock": 40,
+      "imageartpetitf": "sacimg/m.jpg"
+    },
+    {
+      "id": 4,
+      "reference": "sac101",
+      "designation": "Sac à main en similicuir violet",
+      "marque": "RedPassion",
+      "prixAchat": 45,
+      "prixVente": 79.99,
+      "qtestock": 25,
+      "imageartpetitf": "sacimg/2.jpg"
+    },
+    {
+      "id": 5,
+      "reference": "sac202",
+      "designation": "Sac à main en cuir noir avec des clous",
+      "marque": "RockStar",
+      "prixAchat": 55,
+      "prixVente": 94.99,
+      "qtestock": 20,
+      "imageartpetitf": "sacimg/p.jpg"
+    },
+    {
+      "id": 6,
+      "reference": "sac303",
+      "designation": "Sac à main en cuir beige",
+      "marque": "ElegantStyle",
+      "prixAchat": 48,
+      "prixVente": 79.99,
+      "qtestock": 35,
+      "imageartpetitf": "sacimg/9.jpg"
+    },
+    {
+      "id": 7,
+      "reference": "sac404",
+      "designation": "Sac à main en daim brun",
+      "marque": "BohoChic",
+      "prixAchat": 42,
+      "prixVente": 74.99,
+      "qtestock": 30,
+      "imageartpetitf": "sacimg/8.jpg"
+    },
+    {
+      "id": 8,
+      "reference": "sac505",
+      "designation": "Sac à main en cuir vert",
+      "marque": "GlamourRed",
+      "prixAchat": 53,
+      "prixVente": 89.99,
+      "qtestock": 25,
+      "imageartpetitf": "sacimg/11.jpg"
+    },
+    {
+      "id": 9,
+      "reference": "sac606",
+      "designation": "Sac à main en cuir serpent noir",
+      "marque": "ExoticStyle",
+      "prixAchat": 57,
+      "prixVente": 99.99,
+      "qtestock": 20,
+      "imageartpetitf": "sacimg/18.jpg"
+    },
+    {
+      "id": 10,
+      "reference": "sac707",
+      "designation": "Sac à main en cuir crocodile brun",
+      "marque": "LuxuryCroco",
+      "prixAchat": 60,
+      "prixVente": 109.99,
+      "qtestock": 15,
+      "imageartpetitf": "sacimg/x.jpg"
+    },
+    {
+      "id": 11,
+      "reference": "sac808",
+      "designation": "Sac fourre-tout en toile denim",
+      "marque": "DenimStyle",
+      "prixAchat": 40,
+      "prixVente": 69.99,
+      "qtestock": 35,
+      "imageartpetitf": "sacimg/w.jpg"
+    },
+    {
+      "id": 12,
+      "reference": "sac909",
+      "designation": "Sac à main en cuir bleu marine",
+      "marque": "NauticalChic",
+      "prixAchat": 55,
+      "prixVente": 94.99,
+      "qtestock": 30,
+      "imageartpetitf": "sacimg/i.jpg"
+    },
+    {
+      "id": 13,
+      "reference": "sac1010",
+      "designation": "Sac à dos en cuir marron",
+      "marque": "UrbanExplorer",
+      "prixAchat": 50,
+      "prixVente": 84.99,
+      "qtestock": 25,
+      "imageartpetitf": "sacimg/d.jpg"
+    },
+    {
+      "id": 14,
+      "reference": "sac1111",
+      "designation": "Sac à main en cuir rose pastel",
+      "marque": "PastelDreams",
+      "prixAchat": 58,
+      "prixVente": 99.99,
+      "qtestock": 20,
+      "imageartpetitf": "sacimg/f.jpg"
+    },
+    {
+      "id": 15,
+      "reference": "sac1212",
+      "designation": "Sac seau en cuir camel",
+      "marque": "BohoChic",
+      "prixAchat": 52,
+      "prixVente": 89.99,
+      "qtestock": 30,
+      "imageartpetitf": "sacimg/10.jpg"
+    },
+    {
+      "id": 16,
+      "reference": "sac1313",
+      "designation": "Sac à bandoulière en cuir orange",
+      "marque": "ChicNoir",
+      "prixAchat": 45,
+      "prixVente": 79.99,
+      "qtestock": 40,
+      "imageartpetitf": "sacimg/c.jpg"
+    },
+    {
+      "id": 17,
+      "reference": "sac1414",
+      "designation": "Sac en paille avec pompons colorés",
+      "marque": "BohoSummer",
+      "prixAchat": 35,
+      "prixVente": 59.99,
+      "qtestock": 25,
+      "imageartpetitf": "sacimg/14.jpg"
+    },
+    {
+      "id": 18,
+      "reference": "sac1515",
+      "designation": "Mini sac à main en cuir vert pistache",
+      "marque": "RedPassion",
+      "prixAchat": 42,
+      "prixVente": 74.99,
+      "qtestock": 20,
+      "imageartpetitf": "sacimg/n.jpg"
+    },
+    {
+      "id": 19,
+      "reference": "sac1616",
+      "designation": "Sac à dos floral",
+      "marque": "FloralTrend",
+      "prixAchat": 48,
+      "prixVente": 82.99,
+      "qtestock": 30,
+      "imageartpetitf": "sacimg/e.jpg"
+    },
+    {
+      "id": 20,
+      "reference": "sac1717",
+      "designation": "Sac à main en cuir marron foncé",
+      "marque": "RichLeather",
+      "prixAchat": 60,
+      "prixVente": 99.99,
+      "qtestock": 25,
+      "imageartpetitf": "sacimg/12.jpg"
+    },
+    {
+      "id": 21,
+      "reference": "sac1818",
+      "designation": "Sac fourre-tout blanc",
+      "marque": "SummerStripes",
+      "prixAchat": 30,
+      "prixVente": 49.99,
+      "qtestock": 35,
+      "imageartpetitf": "sacimg/k.jpg"
+    },
+    {
+      "id": 22,
+      "reference": "sac1919",
+      "designation": "Sac à main en cuir jaune",
+      "marque": "PureElegance",
+      "prixAchat": 55,
+      "prixVente": 89.99,
+      "qtestock": 18,
+      "imageartpetitf": "sacimg/o.jpg"
+    },
+    {
+      "id": 23,
+      "reference": "sac2020",
+      "designation": "Sac à dos pink",
+      "marque": "UrbanCamouflage",
+      "prixAchat": 40,
+      "prixVente": 64.99,
+      "qtestock": 22,
+      "imageartpetitf": "sacimg/j.jpg"
+    },
+    {
+      "id": 24,
+      "reference": "sac2121",
+      "designation": "Sac à bandoulière pink",
+      "marque": "BlueChic",
+      "prixAchat": 48,
+      "prixVente": 79.99,
+      "qtestock": 30,
+      "imageartpetitf": "sacimg/h.jpg"
+    },
+    {
+      "id": 25,
+      "reference": "sac2222",
+      "designation": "Sac seau vert fance",
+      "marque": "PatternBucket",
+      "prixAchat": 37,
+      "prixVente": 62.99,
+      "qtestock": 28,
+      "imageartpetitf": "sacimg/g.jpg"
+    },
+    {
+      "id": 26,
+      "reference": "sac2323",
+      "designation": "Sac à dos en cuir violet",
+      "marque": "BlackElegance",
+      "prixAchat": 52,
+      "prixVente": 99.99,
+      "qtestock": 15,
+      "imageartpetitf": "sacimg/2.jpg"
+    },
+    {
+      "id": 27,
+      "reference": "sac2424",
+      "designation": "Sac fourre-tout en toile colorée",
+      "marque": "ColorSplash",
+      "prixAchat": 35,
+      "prixVente": 59.99,
+      "qtestock": 20,
+      "imageartpetitf": "sacimg/7.jpg"
+    },
+    {
+      "id": 28,
+      "reference": "sac2525",
+      "designation": "Sac à bandoulière en cuir vert",
+      "marque": "BrownChic",
+      "prixAchat": 45,
+      "prixVente": 79.99,
+      "qtestock": 25,
+      "imageartpetitf": "sacimg/v.jpg"
+    },
+    {
+      "id": 29,
+      "reference": "sac2626",
+      "designation": "Sac seau en toile à rayures",
+      "marque": "StripedBucket",
+      "prixAchat": 38,
+      "prixVente": 64.99,
+      "qtestock": 18,
+      "imageartpetitf": "sacimg/z.jpg"
+    },
+    {
+      "id": 30,
+      "reference": "sac2727",
+      "designation": "Sac à main en cuir rose",
+      "marque": "PinkChic",
+      "prixAchat": 50,
+      "prixVente": 89.99,
+      "qtestock": 20,
+      "imageartpetitf": "sacimg/j.jpg"
+    },
+    {
+      "id": 31,
+      "reference": "sac2828",
+      "designation": "Sac à dos en toile avec motifs",
+      "marque": "PatternedTote",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 12,
+      "imageartpetitf": "sacimg/1.jpg"
+    },
+    {
+      "id": 32,
+      "reference": "sac2929",
+      "designation": "Sac en paille tressée pour l'été",
+      "marque": "SummerStraw",
+      "prixAchat": 18,
+      "prixVente": 34.99,
+      "qtestock": 15,
+      "imageartpetitf": "sacimg/6.jpg"
+    },
+    {
+      "id": 33,
+      "reference": "sac3030",
+      "designation": "Sac de soirée élégant en satin",
+      "marque": "EveningGlam",
+      "prixAchat": 38,
+      "prixVente": 69.99,
+      "qtestock": 10,
+      "imageartpetitf": "sacimg/16.jpg"
+    },
+    {
+      "id": 34,
+      "reference": "sac3131",
+      "designation": "Sac à main en cuir classique",
+      "marque": "ClassicLeather",
+      "prixAchat": 60,
+      "prixVente": 99.99,
+      "qtestock": 10,
+      "imageartpetitf": "sacimg/14.jpg"
+    },
+    {
+      "id": 35,
+      "reference": "sac3232",
+      "designation": "Sac à dos moderne ",
+      "marque": "TechTrek",
+      "prixAchat": 45,
+      "prixVente": 79.99,
+      "qtestock": 12,
+      "imageartpetitf": "sacimg/4.jpg"
+    },
+    {
+      "id": 36,
+      "reference": "sac3636",
+      "designation": "Sac fourre-tout en cuir synthétique",
+      "marque": "SyntheticChic",
+      "prixAchat": 32,
+      "prixVente": 54.99,
+      "qtestock": 8,
+      "imageartpetitf": "sacimg/a.jpg"
+    },
+    {
+      "id": 37,
+      "reference": "sac3737",
+      "designation": "Sac à bandoulière en toile avec imprimé floral",
+      "marque": "FloralCanvas",
+      "prixAchat": 25,
+      "prixVente": 42.99,
+      "qtestock": 10,
+      "imageartpetitf": "sacimg/h.jpg"
+    },
+    {
+      "id": 38,
+      "reference": "sac3838",
+      "designation": "Sac de plage rétro en paille naturelle",
+      "marque": "BeachRetro",
+      "prixAchat": 22,
+      "prixVente": 39.99,
+      "qtestock": 15,
+      "imageartpetitf": "sacimg/5.jpg"
+    },
+    {
+      "id": 39,
+      "reference": "sac3939",
+      "designation": "Sac à dos en cuir vintage avec boucle",
+      "marque": "VintageBuckle",
+      "prixAchat": 48,
+      "prixVente": 89.99,
+      "qtestock": 8,
+      "imageartpetitf": "sacimg/d.jpg"
+    }
+  ],
+  "ceintures": [
+    {
+      "id": 40,
+      "reference": "ceinture101",
+      "designation": "Ceinture en cuir noir",
+      "marque": "FashionCo",
+      "prixAchat": 30,
+      "prixVente": 59.99,
+      "qtestock": 50,
+      "imageartpetitf": "centimg/15.jpg"
+    },
+    {
+      "id": 41,
+      "reference": "ceinture202",
+      "designation": "Ceinture en toile rayée",
+      "marque": "TrendyStyle",
+      "prixAchat": 22,
+      "prixVente": 44.99,
+      "qtestock": 30,
+      "imageartpetitf": "centimg/11.jpg"
+    },
+    {
+      "id": 42,
+      "reference": "ceinture303",
+      "designation": "Ceinture en cuir marron",
+      "marque": "ChicBelts",
+      "prixAchat": 35,
+      "prixVente": 64.99,
+      "qtestock": 40,
+      "imageartpetitf": "centimg/20.jpg"
+    },
+    {
+      "id": 43,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir Violet",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/14.jpg"
+    },
+    {
+      "id": 44,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir bleu",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/17.jpg"
+    },
+    {
+      "id": 45,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir Beige",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/10.jpg"
+    },
+    {
+      "id": 46,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir Vert",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/18.jpg"
+    },
+    {
+      "id": 47,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir noir",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/25.jpg"
+    },
+    {
+      "id": 48,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir rose",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/22.jpg"
+    },
+    {
+      "id": 49,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir rmn",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/29.jpg"
+    },
+    {
+      "id": 50,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir rose",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/16.jpg"
+    },
+    {
+      "id": 60,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir coloree",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/27.jpg"
+    },
+    {
+      "id": 61,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir rosee",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/24.jpg"
+    },
+    {
+      "id": 62,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir Bleu",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/1.jpg"
+    },
+    {
+      "id": 63,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir colere",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/4.jpg"
+    },
+    {
+      "id": 64,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir marron",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/12.jpg"
+    },
+    {
+      "id": 65,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir rose",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/22.jpg"
+    },
+    {
+      "id": 66,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir coleure",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/29.jpg"
+    },
+    {
+      "id": 67,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/6.jpg"
+    },
+    {
+      "id": 68,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/7.jpg"
+    },
+    {
+      "id": 69,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/21.jpg"
+    },
+    {
+      "id": 70,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir Violet",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/14.jpg"
+    },
+    {
+      "id": 71,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/30.jpg"
+    },
+    {
+      "id": 72,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir noir",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/28.jpg"
+    },
+    {
+      "id": 73,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/19.jpg"
+    },
+    {
+      "id": 74,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/13.jpg"
+    },
+    {
+      "id": 75,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/23.jpg"
+    },
+    {
+      "id": 76,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/3.jpg"
+    },
+    {
+      "id": 77,
+      "reference": "ceinture404",
+      "designation": "Ceinture en similicuir",
+      "marque": "RedPassion",
+      "prixAchat": 28,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/5.jpg"
+    },
+    {
+      "reference": "hhhhhhh",
+      "designation": "kkkkkkkk",
+      "marque": "1b",
+      "prixAchat": "210",
+      "prixVente": "120",
+      "qtestock": "3",
+      "imageartpetitf": "i.jpg",
+      "id": 78
+    }
+  ]
+}

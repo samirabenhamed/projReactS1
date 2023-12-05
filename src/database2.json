@@ -1,0 +1,295 @@
+{
+    "ceintures": [
+      {
+        "id": 1,
+        "reference": "ceinture101",
+        "designation": "Ceinture en cuir noir",
+        "marque": "FashionCo",
+        "prixAchat": 30.0,
+        "prixVente": 59.99,
+        "qtestock": 50,
+        "imageartpetitf": "centimg/15.jpg"
+      },
+      {
+        "id": 2,
+        "reference": "ceinture202",
+        "designation": "Ceinture en toile rayée",
+        "marque": "TrendyStyle",
+        "prixAchat": 22.0,
+        "prixVente": 44.99,
+        "qtestock": 30,
+        "imageartpetitf": "centimg/11.jpg"
+      },
+      {
+        "id": 3,
+        "reference": "ceinture303",
+        "designation": "Ceinture en cuir marron",
+        "marque": "ChicBelts",
+        "prixAchat": 35.0,
+        "prixVente": 64.99,
+        "qtestock": 40,
+        "imageartpetitf": "centimg/20.jpg"
+      },
+      {
+        "id": 4,
+        "reference": "ceinture404",
+        "designation": "Ceinture en similicuir Violet",
+        "marque": "RedPassion",
+        "prixAchat": 28.0,
+        "prixVente": 49.99,
+        "qtestock": 25,
+        "imageartpetitf": "centimg/14.jpg"
+      },
+      {
+        "id": 5,
+        "reference": "ceinture404",
+        "designation": "Ceinture en similicuir bleu",
+        "marque": "RedPassion",
+        "prixAchat": 28.0,
+        "prixVente": 49.99,
+        "qtestock": 25,
+        "imageartpetitf": "centimg/17.jpg"
+      },
+     {  
+        "id":6,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir Beige",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/10.jpg"
+    }, 
+    {  
+        "id":7,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir Vert",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/18.jpg"
+    }, 
+    {  
+        "id":8,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir noir",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/25.jpg"
+    },
+    {  
+        "id":9,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir rose",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/22.jpg"
+    },
+    {  
+        "id":10,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir rmn",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/29.jpg"
+    },
+    {  
+        "id":11,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir rose",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/16.jpg"
+    },
+    {  
+        "id":12,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir coloree",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/27.jpg"
+    },
+    {  
+        "id":13,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir rosee",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/24.jpg"
+    },
+    {  
+        "id":14,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir Bleu",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/1.jpg"
+    },
+    {  
+        "id":16,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir colere",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/4.jpg"
+    },
+    {  
+        "id":17,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir marron",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/12.jpg"
+    },
+    {  
+        "id":18,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir rose",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/22.jpg"
+    },
+    {  
+        "id":19,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir coleure",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/29.jpg"
+    },
+    {  
+        "id":20,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/6.jpg"
+    },
+    {  
+        "id":21,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/7.jpg"
+    },
+    {  
+        "id":22,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/21.jpg"
+    },
+    {  
+        "id":23,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir Violet",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/14.jpg"
+    },
+    {  
+        "id":24,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/30.jpg"
+    },
+    {  
+        "id":25,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir noir",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/28.jpg"
+    },
+    {  
+        "id":26,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/19.jpg"
+    },
+    {  
+        "id":27,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/13.jpg"
+    },
+    {  
+        "id":28,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/23.jpg"
+    },
+    {  
+        "id":29,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir ",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/3.jpg"
+    },
+    {  
+        "id":30,
+        "reference": "ceinture404",
+      "designation": "Ceinture en similicuir",
+      "marque": "RedPassion",
+      "prixAchat": 28.0,
+      "prixVente": 49.99,
+      "qtestock": 25,
+      "imageartpetitf": "centimg/5.jpg"
+    }
+
+]
+}
